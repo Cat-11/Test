@@ -9,6 +9,7 @@ public class TestGitLauncher {
         System.out.println("TestAgain");
 
         System.out.println("ANDREW");
+        System.out.println("ANDREW sucks");
 
     }
 
